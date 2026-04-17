@@ -71,8 +71,8 @@ Find customers with no purchase history.
 ## Folder Structure
 
 ```text
-online-retail-sales-analysis/
+project/
+│── Results_Screenshots/
+│── data.sql
+│── query.sql
 │── schema.sql
-│── insert_data.sql
-│── queries.sql
-│── screenshots/
