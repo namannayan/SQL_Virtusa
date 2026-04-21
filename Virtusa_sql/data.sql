@@ -1,13 +1,14 @@
 
 INSERT INTO Customers (customer_id, name, city) VALUES
-(1, 'Naman', 'Delhi'),
-(2, 'Rahul', 'Mumbai'),
-(3, 'Priya', 'Noida'),
-(4, 'Aman', 'Pune'),
-(5, 'Sneha', 'Bangalore'),
-(6, 'Arjun', 'Chandigarh'),
-(7, 'Karan', 'Jaipur'),
-(8, 'Meera', 'Hyderabad');
+(1,'Naman','Delhi'),
+(2,'Rahul','Mumbai'),
+(3,'Priya','Noida'),
+(4,'Aman','Pune'),
+(5,'Sneha','Bangalore'),
+(6,'Arjun','Chandigarh'),
+(7,'Karan','Jaipur'),
+(8,'Meera','Hyderabad'),
+(9,'Arpit','Kanpur');
 
 
 INSERT INTO Products (product_id, name, category, price) VALUES
